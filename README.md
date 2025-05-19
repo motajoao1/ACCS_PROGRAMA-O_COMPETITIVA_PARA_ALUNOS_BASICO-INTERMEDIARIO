@@ -1,1 +1,3 @@
-# ACCS_PROGRAMA-O_COMPETITIVA_PARA_ALUNOS_BASICO-INTERMEDIARIO
+ACCS:PROGRAMAÇÃO COMPETITIVA-COMPUTAÇÃO PARA ALUNOS
+
+Monitoria de aulas de computação para comunidade interna/externa à UFBA com nível médio/intermediário 
