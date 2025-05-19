@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int E, T, V;
+
+int main() {
+    cin >> E >> T;
+
+    V = E/T;
+
+    cout << V << endl;
+    return 0;
+}
